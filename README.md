@@ -1,5 +1,5 @@
-- TickTodo:
-    Ticktodo is web and mobile app designed to setup reminders for daily activities.
+- Reminders:
+    Reminders is web and mobile app designed to setup reminders for daily activities.
 
 - Technology stack:
     ReactXP, Material Design, Firebase
