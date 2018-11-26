@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "180352029728",
+    "firebase_url": "https://ticktodo.firebaseio.com",
+    "project_id": "ticktodo",
+    "storage_bucket": "ticktodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180352029728:android:20e0d2ee428bf29b",
+        "android_client_info": {
+          "package_name": "com.ticktodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180352029728-eks38qqpuco9kg09n9niuv84n68lgo5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticktodo",
+            "certificate_hash": "c67355bc51f848610c6aa8e3a1d305a91f8aac28"
+          }
+        },
+        {
+          "client_id": "180352029728-p2m9scnmh0k7bfru0llspv77ph32scut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ticktodo",
+            "certificate_hash": "b5eff16b7da329580cdb39db5c77523af1c336e3"
+          }
+        },
+        {
+          "client_id": "180352029728-g9c54pcvraqaqrld8o085lnimu303oje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLkQbxJ9iiQbY8UJLdrpRZCyLmWHk50Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180352029728-g9c54pcvraqaqrld8o085lnimu303oje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

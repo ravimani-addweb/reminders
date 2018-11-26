@@ -1,0 +1,17 @@
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+/.cache-loader/
+package-lock.json
+
+temp/
+
+# Certificate information for node webserver
+cert.pem
+key.pem
+
+# Built files for webserver
+web/
+.idea/
